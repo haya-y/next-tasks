@@ -1,6 +1,6 @@
 'use client';
 
-import { NewTaskField } from '../NewTaskForm/Constants';
+import { NewTaskField, Date } from '../NewTaskForm/Constants';
 import { TwNewTaskForm, TwLabelStyles, TwInputStyles, TwButtonStyles } from '../NewTaskForm/TailwindStyles';
 import { TaskDocument } from '../../models/task';
 import { ChangeEvent, useState } from 'react';
